@@ -1,0 +1,13 @@
+<script setup>
+import Header from '../components/Header.vue'
+import Home from '../components/home/Homepage.vue'
+import Footer from '../components/Footer.vue'
+</script>
+
+<template>
+  <main>
+    <Header />
+    <Home />
+    <Footer />
+  </main>
+</template>
